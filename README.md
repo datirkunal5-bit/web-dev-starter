@@ -47,13 +47,7 @@ web-dev-starter/
 
 ---
 
-📱 How to Use
 
-1. Clone or download the repository
-2. Open "index.html" in a browser
-3. Edit files to practice and experiment
-
----
 
 👨‍💻 Author
 
